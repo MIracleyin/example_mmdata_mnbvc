@@ -1,6 +1,6 @@
 ## mnbvc mm dataset v2.0
 
-MNBVC 多模态语料数据格式。原链接：
+MNBVC 多模态语料数据格式。原链接：https://huggingface.co/datasets/wanng/example_mmdata_mnbvc
 
 |字段名称|字段说明|可选|
 |-|-|-|
